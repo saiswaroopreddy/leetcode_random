@@ -1,3 +1,4 @@
+//Works for singleNumber2 as well
 class Solution {
     public int singleNumber(int[] nums) {
         /*
